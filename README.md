@@ -6,11 +6,10 @@
 <h1 align="center">Hi 👋, I'm Mostafa Selim</h1>
 <h3 align="center">A passionate "SW Testing Engineer" from Egypt</h3>
 
-
-- 👨‍💻 All of my projects are available at [https://github.com/mostafamamdou7](https://github.com/mostafamamdou7)
 - 👀 I’m interested in software testing..
 - 🌱 I’m currently learning automation testing..
 - 💞️ I’m looking to collaborate on testing challenges...
+- 👨‍💻 All of my projects are available at [https://github.com/mostafamamdou7](https://github.com/mostafamamdou7)
 - 📫 How to reach me by mail **mostafabdellah@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
